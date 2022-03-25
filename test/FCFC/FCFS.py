@@ -1,3 +1,1 @@
-print("FCFS")
-print("fcccc")
-print("추가")
+print("수정")
