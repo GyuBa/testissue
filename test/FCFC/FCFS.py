@@ -1,1 +1,2 @@
 print("FCFS")
+print("fcccc")
